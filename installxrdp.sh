@@ -1,0 +1,1 @@
+apt update; apt install xfce4 xfce4-goodies xorg dbus-x11 x11-xserver-utils; apt install xrdp; adduser xrdp ssl-cert; apt-get remove ufw; systemctl restart xrdp
